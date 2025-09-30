@@ -1,0 +1,8 @@
+numpy
+gymnasium
+pygame
+imageio
+tqdm
+pickle5
+huggingface_hub
+pyvirtualdisplay
