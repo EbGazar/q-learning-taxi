@@ -43,10 +43,3 @@ The included Jupyter Notebook provides a detailed, educational walkthrough of th
 ## How to Run
 
 Open and execute the cells in the `taxi_v3_q_learning.ipynb` notebook. It contains all the code and explanations needed to train your agent. For the certification part of the Deep RL Course, the goal is to achieve a score of **>= 4.5** on the leaderboard.
-
-## Results and Leaderboard
-
-The performance of the trained agent is evaluated based on its mean reward over 100 episodes using a predefined seed. You can see how your model stacks up against others on the [Deep RL Leaderboard](https://huggingface.co/spaces/huggingface-projects/Deep-Reinforcement-Learning-Leaderboard).
-
----
-*This project is an assignment from the [Hugging Face Deep RL Course](https://huggingface.co/deep-rl-course).*
